@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BUUDIEN", "BUUDIEN\BUUDIEN.vbproj", "{080C32D4-9102-45A3-A64A-3BEAF15D0ADE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QLVT", "C:\Users\hoaiduc\Desktop\QLVT_VB\QLVT\QLVT.vbproj", "{A2CC05B5-FB56-4A73-9889-CDA7B463626E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{080C32D4-9102-45A3-A64A-3BEAF15D0ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080C32D4-9102-45A3-A64A-3BEAF15D0ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080C32D4-9102-45A3-A64A-3BEAF15D0ADE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{080C32D4-9102-45A3-A64A-3BEAF15D0ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080C32D4-9102-45A3-A64A-3BEAF15D0ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2CC05B5-FB56-4A73-9889-CDA7B463626E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CC05B5-FB56-4A73-9889-CDA7B463626E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CC05B5-FB56-4A73-9889-CDA7B463626E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CC05B5-FB56-4A73-9889-CDA7B463626E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
